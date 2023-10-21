@@ -14,7 +14,7 @@ config = {
     "token":"",
     "prefix":"",
     "name":"Ghostface Ticket Bot",
-    "creator":"@sacrifice.shop",
+    "creator":"@sacrifice.zip",
     "owner_id":"",
     "support_id":""
 }
